@@ -1,0 +1,26 @@
+_repo: Sir-George-Arthur-and-His-Administration-of-Upper-Canada_63152
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sage, W. N. (Walter Noble)
+    alias: Sage, Walter Noble
+    birthdate: 1888
+    deathdate: 1963
+    gutenberg_agent_id: '52310'
+    url: http://www.gutenberg.org/2009/agents/52310
+description: ''
+gutenberg_issued: '2020-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63152'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arthur, George, Sir, 1784-1854'
+- !lcc 'F1001'
+- !lcsh 'Ontario -- Politics and government'
+- GITenberg
+title: Sir George Arthur and His Administration of Upper Canada
+url: http://www.gutenberg.org/ebooks/63152
